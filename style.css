@@ -7,10 +7,6 @@ body{
 ul{
 	margin: 0;
 }
-header .attribution{
-	margin-top: 0;
-	font-size:11px
-}
 h1,h2,h4,input,#navbar li{
 	font-family:'Raleway',sans-serif;
 }
