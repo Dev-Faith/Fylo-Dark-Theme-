@@ -193,6 +193,9 @@ footer .category{
 		width: 80%;
 		display: block;
 	}
+	#showcase p{
+		width:90%;
+	}
 	#showcase{
 		float: none;
 		width: 100%;
